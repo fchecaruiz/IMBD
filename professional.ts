@@ -32,14 +32,14 @@ export class Professional {
     }
 
     public mostrar_atributos (): void {
-        console.log(`Name: ${this.name}`);
-        console.log(`Age: ${this.age}`);
+        console.log(`Nombre: ${this.name}`);
+        console.log(`Año: ${this.age}`);
         console.log(`Weight: ${this.weight}`);
         console.log(`Height: ${this.height}`);
-        console.log(`Retired: ${this.isRetired}`);
-        console.log(`Nationality: ${this.nationality}`);
+        console.log(`Retirdado: ${this.isRetired}`);
+        console.log(`Nacionalidad: ${this.nationality}`);
         console.log(`Oscars: ${this.oscarsNumber}`);
-        console.log(`Profession: ${this.profession}`);
+        console.log(`Profesion: ${this.profession}`);
     }
 }
 

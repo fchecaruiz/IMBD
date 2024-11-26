@@ -1,4 +1,4 @@
-import { Professional } from "./src/professional";
-import { actor } from "./src/professional";
+import { Professional } from "./professional";
+import { actor } from "./professional";
 
 actor.mostrar_atributos()
