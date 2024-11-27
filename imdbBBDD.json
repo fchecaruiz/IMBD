@@ -1,1 +1,23 @@
-{"title":"El filo de lo imposible","releaseYear":2019,"nacionality":"USA","genre":"Ficcion"}
+{"title":"El filo de lo imposible",
+"releaseYear":2019,
+"nacionality":"USA",
+"genre":"Ficcion",
+"nuevoRegistro":[
+    {"name":"alberto",
+    "age":45,"weight":67,
+    "height":1.9,
+    "isRetired":false,
+    "nationality":"francesa",
+    "oscarsNumber":1,
+    "profession":"director"},
+
+    {"name":"julian",
+    "age":34,
+    "weight":80,
+    "height":1.9,
+    "isRetired":false,
+    "nationality":"portugal",
+    "oscarsNumber":0,
+    "profession":""}
+]
+}

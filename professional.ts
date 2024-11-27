@@ -1,3 +1,6 @@
+import { movie1 } from "./Movie";
+import { movie2 } from "./Movie";
+
 
 export class Professional {
 
